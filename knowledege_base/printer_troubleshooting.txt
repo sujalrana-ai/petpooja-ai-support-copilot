@@ -1,1 +1,31 @@
+TITLE: Receipt Printer Troubleshooting
+CATEGORY: printer
+SOURCE_TYPE: Illustrative portfolio documentation
+
+SYMPTOM:
+The restaurant receipt printer is not printing.
+
+POSSIBLE CAUSES:
+- Printer power or connection problem.
+- Incorrect printer selection or configuration.
+- Paper is missing or incorrectly loaded.
+- Printer or application reports an error.
+
+SAFE CHECKS:
+1. Check power and visible printer status.
+2. Check paper availability and loading.
+3. Confirm the selected printer and connection status.
+4. Check whether the problem affects one terminal or several.
+5. Record the exact error message.
+
+ESCALATION:
+Contact authorized support if the issue persists. Include the
+printer model, terminal details, error message and incident time.
+
+SAFETY:
+Do not change network security settings or factory-reset equipment
+without authorization.
+
+LIMITATION:
+This guide is illustrative and is not an official Petpooja procedure.
 
