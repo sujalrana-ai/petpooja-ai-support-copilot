@@ -1,1 +1,30 @@
+TITLE: Application Login Troubleshooting
+CATEGORY: login
+SOURCE_TYPE: Illustrative portfolio documentation
+
+SYMPTOM:
+A user cannot sign in to the application.
+
+POSSIBLE CAUSES:
+- Incorrect credentials.
+- Account access or permissions issue.
+- Temporary connectivity problem.
+- Authentication service error.
+
+SAFE CHECKS:
+1. Read the exact error message.
+2. Check the network connection.
+3. Verify that the correct authorized account is being used.
+4. Use the official password recovery procedure if necessary.
+5. Check with the account administrator if access is denied.
+
+ESCALATION:
+Record the error, time and affected application. Never include
+passwords, recovery codes or authentication tokens.
+
+SAFETY:
+Never bypass authentication or request another person's credentials.
+
+LIMITATION:
+This guide is illustrative and is not an official Petpooja procedure.
 
