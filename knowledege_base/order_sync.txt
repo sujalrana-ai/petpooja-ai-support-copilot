@@ -1,1 +1,33 @@
 
+TITLE: Online Order Synchronization Troubleshooting
+CATEGORY: order_sync
+SOURCE_TYPE: Illustrative portfolio documentation
+
+SYMPTOM:
+Online orders are not appearing in the restaurant POS.
+
+POSSIBLE CAUSES:
+- Unstable or unavailable network connection.
+- Online ordering integration is disconnected.
+- Synchronization events are pending or failing.
+- The upstream ordering service may be unavailable.
+
+SAFE CHECKS:
+1. Check the device network connection.
+2. Determine whether one device or several devices are affected.
+3. Review the application's synchronization status.
+4. Check integration status using authorized diagnostics.
+5. Preserve pending orders and verify their status before retrying.
+
+ESCALATION:
+If the problem continues, contact authorized support with the
+approximate incident time, error message, affected device and
+sanitized diagnostic logs.
+
+SAFETY:
+Do not delete pending orders or repeatedly retry payments without
+verifying their status.
+
+LIMITATION:
+This guide is illustrative and is not an official Petpooja procedure.
+
