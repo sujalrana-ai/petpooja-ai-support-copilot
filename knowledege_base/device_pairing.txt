@@ -1,1 +1,30 @@
+TITLE: POS Device Pairing Troubleshooting
+CATEGORY: device_pairing
+SOURCE_TYPE: Illustrative portfolio documentation
+
+SYMPTOM:
+A device cannot connect or pair with the POS application.
+
+POSSIBLE CAUSES:
+- Network connectivity problem.
+- Device pairing configuration mismatch.
+- Unsupported or outdated application version.
+- Temporary service interruption.
+
+SAFE CHECKS:
+1. Record the device model and application version.
+2. Check network availability.
+3. Confirm the device is authorized for the account.
+4. Review any displayed pairing error.
+5. Check official setup instructions before changing configuration.
+
+ESCALATION:
+Provide the device model, application version, error message
+and approximate time of failure to authorized support.
+
+SAFETY:
+Do not share passwords, access tokens or private customer data.
+
+LIMITATION:
+This guide is illustrative and is not an official Petpooja procedure.
 
