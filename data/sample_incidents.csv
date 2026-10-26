@@ -1,0 +1,9 @@
+incident_id,description,expected_category,expected_severity
+INC001,Online orders are not syncing to the POS,order_sync,unassessed
+INC002,The receipt printer is not printing,printer,unassessed
+INC003,The device cannot pair with the application,device_pairing,unassessed
+INC004,I cannot log in to my account,login,unassessed
+INC005,Unknown application error,unknown,unassessed
+INC006,All devices report a payment issue,unknown,high
+INC007,The printer connection keeps failing,printer,medium
+INC008,Online synchronization timeout,order_sync,unassessed
